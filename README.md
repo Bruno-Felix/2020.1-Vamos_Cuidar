@@ -21,20 +21,51 @@
     </a>
 </div>
 
-## Sobre o projeto
-Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
-
 <h4 align="center"> 
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
 </h4>
 
-<!-- ## Funcionalidades -->
+## Sobre o projeto
+Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
+
+## Idéia e Motivação
+
+
+## Funcionalidades
+- Criar postagens anônimas:
+  - 
+- Listar todas as postagens criadas;
+- Visualizar detalhes da postagem.
 
 ## Aplicação
 
 ## Como rodar o projeto
 
 ## Tecnologias
+
+### Front End ([Vue.js](https://vuejs.org/)):
+  - Docker;
+  - MongoDB;
+  - Vue.js;
+  - Node.js.
+
+### Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
+- Express;
+- Cors;
+- Bcrypt;
+- Body-parser;
+- Dotenv;
+- mongoose;
+- multer;
+- nodemom
+
+
+## Como contribuir para o projeto
+
+Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
+
+Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
+
 
 ## Contribuidores
 
@@ -48,16 +79,6 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
         <td align="center"><a href="https://github.com/enzoggqs"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/38733364?s=400&u=03933ce39868586c14b93dc9c99f37c19bb9ee9b&v=4" width="100px;" alt=""/><br /><sub><b>Enzo Gabriel</b></sub></a><br /><a href="https://github.com/enzoggqs"></a></td> 
     </tr>
 </table>
-
-## Como rodar o projeto
-
-
-## Como contribuir para o projeto
-
-Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
-
-Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
-
 
 ## Liçensa
 
