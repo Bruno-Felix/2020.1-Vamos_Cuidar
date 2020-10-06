@@ -23,9 +23,15 @@
 
 <h4 align="center"> 
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
-	<p>
-		 * [Tecnologias](#tecnologias)  •
-		 [Liçensa](#Liçensa)
+	<p align="center">
+		 <a href="#sobre-o-projeto">Sobre</a> •
+		 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
+		 <a href="#funcionalidades">Funcionalidades</a> • 
+		 <a href="#aplicação">Como executar</a> • 
+		 <a href="#-tecnologias">Tecnologias</a> • 
+		 <a href="#-contribuidores">Contribuidores</a> • 
+		 <a href="#-autor">Autor</a> • 
+		 <a href="#user-content--licença">Licença</a>
 	</p>
 </h4>
 
