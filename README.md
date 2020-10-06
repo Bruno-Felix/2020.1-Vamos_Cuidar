@@ -23,6 +23,7 @@
 
 <h4 align="center"> 
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
+	<br><br>
 	<p align="center">
 		 <a href="#sobre-o-projeto">Sobre</a> •
 		 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
