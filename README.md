@@ -62,7 +62,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 ## Aplicação
 
 
-## Como rodar o projeto
+## :computer: Como rodar o projeto
 
 
 ## Tecnologias
