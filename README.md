@@ -1,3 +1,13 @@
+<!--- Título e Descrição -->
+
+<div align="center">
+    <img width=30% src="docs/Imagens/vamosCuidarIcon.png" alt="Vamos Cuidar" class="lg">
+</div>
+
+<h1 align="center">Vamos Cuidar</h1>
+
+<p align="center"> Sistema de postagem de problemas da Universidades de Brasília</p>
+
 <!--- Badges -->
 <div align="center">
     <a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/blob/master/LICENSE">
@@ -11,17 +21,6 @@
     </a>
 </div>
 
-<!--- Título e Descrição -->
-
-<div align="center">
-    <img width=20% src="docs/Imagens/vamosCuidarIcon.png" alt="Vamos Cuidar" class="lg">
-</div>
-
-<h1 align="center">Vamos Cuidar</h1>
-
-<p align="center"> Sistema de postagem de problemas da Universidades de Brasília</p>
-
-
 ## Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
 
@@ -29,13 +28,13 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
 </h4>
 
-<!--- ## Funcionalidades -->
+<!-- ## Funcionalidades -->
 
-<!--- ## Aplicação -->
+## Aplicação
 
-<!--- ## Como rodar o projeto -->
+## Como rodar o projeto
 
-<!--- ## Tecnologias -->
+## Tecnologias
 
 ## Contribuidores
 
@@ -50,6 +49,16 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
     </tr>
 </table>
 
-<!--- ## Como contribuir para o projeto -->
+## Como rodar o projeto
 
-<!--- ## Liçensa -->
+
+## Como contribuir para o projeto
+
+Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
+
+Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
+
+
+## Liçensa
+
+Este projeto esta sobe a licença [GPL v3.0](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/master/LICENSE).
