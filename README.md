@@ -46,7 +46,7 @@
 ---
 
 
-## Sobre o projeto
+## :computer: Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
 
 ## Idéia e Motivação
@@ -62,10 +62,10 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 ## Aplicação
 
 
-## :computer: Como rodar o projeto
+## :rocket: Como rodar o projeto
 
 
-## Tecnologias
+## :gear: Tecnologias
 
 ### Front End ([Vue.js](https://vuejs.org/)):
   - Docker;
@@ -84,7 +84,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 - nodemom
 
 
-## Como contribuir para o projeto
+## :octocat: Como contribuir para o projeto
 
 Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
 
@@ -105,6 +105,6 @@ Para contribuir, por favor acesse nosso processo de contribuição: [Como Contri
 </table>
 
 
-## Liçensa
+## :green_book: Licença
 
 Este projeto esta sobe a licença [GPL v3.0](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/master/LICENSE).
