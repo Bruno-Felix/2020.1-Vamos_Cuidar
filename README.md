@@ -23,19 +23,21 @@
 
 <h4 align="center"> 
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
-	<br><br>
-	<p align="center">
-		 <a href="#sobre-o-projeto">Sobre</a> •
-		 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
-		 <a href="#funcionalidades">Funcionalidades</a> • 
-		 <a href="#aplicação">Aplicação</a> • 
-		 <a href="#Como-rodar-o-projeto">Rodar o projeto</a> • 
-		 <a href="#tecnologias">Tecnologias</a> • 
-		 <a href="#como-contribuir-para-o-projeto">Como Contribuir</a> • 
-		 <a href="#Desenvolvedores">Desenvolvedores</a> • 
-		 <a href="#Liçensa">Liçensa</a>
-	</p>
 </h4>
+<br><br>
+<p align="center">
+	 <a href="#sobre-o-projeto">Sobre</a> •
+	 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
+	 <a href="#funcionalidades">Funcionalidades</a> • 
+	 <a href="#aplicação">Aplicação</a> • 
+	 <a href="#Como-rodar-o-projeto">Rodar o projeto</a> • 
+	 <a href="#tecnologias">Tecnologias</a> • 
+	 <a href="#como-contribuir-para-o-projeto">Como Contribuir</a> • 
+	 <a href="#Desenvolvedores">Desenvolvedores</a> • 
+	 <a href="#Liçensa">Liçensa</a>
+</p>
+
+---
 
 ## Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
