@@ -27,11 +27,12 @@
 		 <a href="#sobre-o-projeto">Sobre</a> •
 		 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
 		 <a href="#funcionalidades">Funcionalidades</a> • 
-		 <a href="#aplicação">Como executar</a> • 
-		 <a href="#-tecnologias">Tecnologias</a> • 
-		 <a href="#-contribuidores">Contribuidores</a> • 
-		 <a href="#-autor">Autor</a> • 
-		 <a href="#user-content--licença">Licença</a>
+		 <a href="#aplicação">Aplicação</a> • 
+		 <a href="#Como-rodar-o-projeto">Como rodar o projeto</a> • 
+		 <a href="#tecnologias">Tecnologias</a> • 
+		 <a href="#como-contribuir-para-o-projeto">Como Contribuir</a> • 
+		 <a href="#Desenvolvedores">Desenvolvedores</a> • 
+		 <a href="#Liçensa">Liçensa</a>
 	</p>
 </h4>
 
@@ -77,7 +78,7 @@ Esse é um projeto Open Source que está disponível para que qualquer um da com
 Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
 
 
-## Contribuidores
+## Desenvolvedores
 
 <table>
     <tr>
