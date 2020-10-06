@@ -8,7 +8,9 @@
 
 <p align="center"> Sistema de postagem de problemas da Universidades de Brasília</p>
 
+
 <!--- Badges -->
+
 <div align="center">
     <a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/blob/master/LICENSE">
         <img alt="License" src="https://img.shields.io/github/license/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario">
@@ -25,7 +27,9 @@
 	🚧  Vamos Cuidar: Em desenvolvimento...  🚧
 </h4>
 
+
 <!--- Sumário -->
+
 <p align="center">
 	 <a href="#sobre-o-projeto">Sobre</a> •
 	 <a href="#idéia-e-motivação">Idéia e Motivação</a> •
@@ -38,7 +42,9 @@
 	 <a href="#Liçensa">Liçensa</a>
 </p>
 
+
 ---
+
 
 ## Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
@@ -52,9 +58,12 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 - Listar todas as postagens criadas;
 - Visualizar detalhes da postagem.
 
+
 ## Aplicação
 
+
 ## Como rodar o projeto
+
 
 ## Tecnologias
 
@@ -94,6 +103,7 @@ Para contribuir, por favor acesse nosso processo de contribuição: [Como Contri
         <td align="center"><a href="https://github.com/enzoggqs"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/38733364?s=400&u=03933ce39868586c14b93dc9c99f37c19bb9ee9b&v=4" width="100px;" alt=""/><br /><sub><b>Enzo Gabriel</b></sub></a><br /><a href="https://github.com/enzoggqs"></a></td> 
     </tr>
 </table>
+
 
 ## Liçensa
 
