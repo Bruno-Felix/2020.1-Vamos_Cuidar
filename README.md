@@ -58,19 +58,21 @@
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
 
 
-## :bulb: Idéia e Incentivo
+## 💡 Idéia e Incentivo
+
+
 
 
 ---
 
 
-## :gear: Funcionalidades
+## ⚙️ Funcionalidades
 - Criar postagens anônimas
 - Listar todas as postagens criadas;
 - Visualizar detalhes da postagem.
 
 
-## :computer: Aplicação
+## 💻 Aplicação
 
 
 ---
@@ -93,7 +95,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 - Nodemon.
 
 
-## :rocket: Como rodar o projeto
+## 🚀 Como rodar o projeto
 
 ### :white_check_mark: Pré requisitos
 
@@ -122,7 +124,7 @@ Para contribuir, por favor acesse nosso processo de contribuição: [Como Contri
 ---
 
 
-## :massage: Desenvolvedores
+## 💆‍ Desenvolvedores
 
 <table>
     <tr>
@@ -136,6 +138,6 @@ Para contribuir, por favor acesse nosso processo de contribuição: [Como Contri
 </table>
 
 
-## :green_book: Licença
+## 🛡️ Licença
 
 Este projeto esta sobe a licença [GPL v3.0](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/master/LICENSE).
