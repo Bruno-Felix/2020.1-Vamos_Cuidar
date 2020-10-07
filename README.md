@@ -66,11 +66,11 @@ O projeto se baseia numa proposta do evento, ocorrido nos dias 21 e 22 de novemb
 </p>
 
 <p style="text-align: justify;">&emsp;&emsp; 
-O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administração da UnB. A falta de um <strong>meio de comunicação não burocrático e prático</strong> para a notificação desses tais problemas pode ocasionar inúmeros prejuízos para a comunidade.
+O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administração da UnB. A falta de um <strong>meio de comunicação não burocrático e prático</strong> para a notificação desses tais problemas pode ocasionar inúmeros prejuízos para a universidade.
 </p>
 
 <p style="text-align: justify;">&emsp;&emsp; 
-A universidade é um espaço público, que passa de geração a geração. O efetivo desenvolvimento de um produto com raiz nesse tema de Hackathon agregado a problemática levantada, agregar significativamente o cotidiano das pessoas e beneficiar a vida da comunidade universitária, preservando e enriquecendo a Universidade de Brasília do presente e do futuro.
+A universidade é um espaço público, que passa de geração a geração. <strong>O efetivo desenvolvimento de um produto</strong> com raiz nesse tema de Hackathon agregado a problemática levantada, <strong>agrega significativamente o cotidiano da comunidade universitária</strong>, preservando e enriquecendo a Universidade de Brasília do <strong>presente e a do futuro</strong>.
 </p>
 
 
