@@ -55,11 +55,23 @@
 
 
 ## 🏆 Sobre o projeto
-Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
+<p style="text-align: justify;">&emsp;&emsp; 
+O Vamos Cuidar é uma aplicação PWA que tem como objetivo auxiliar a UnB na maior agilidade em resolver problemas, sejam eles estruturais, acadêmicos, processuais entre outros, que impactam negativamente o dia a dia da universidade. Com uma plataforma prática e direta, a comunidade universitária pode fazer postagens sobre problemas que enfrentam no cotidiano, e com isto, os gestores podem analisar e tomar medidas para resolver esses problemas reportados.
+</p>
 
 
 ## 💡 Ideia e Incentivo
+<p style="text-align: justify;">&emsp;&emsp; 
+O projeto se baseia numa proposta do evento, ocorrido nos dias 21 e 22 de novembro de 2019, <strong>"Hackathon DAF e PCTec/UnB"</strong>, que tinha como tema <strong>"UnB na palma da sua mão"</strong>. Nesse Hackathon, o objetivo era desenvolver uma aplicação que as pessoas pudessem <strong>relatar problemas</strong> para os administradores e assim serem <strong>rapidamente resolvidos</strong>.
+</p>
 
+<p style="text-align: justify;">&emsp;&emsp; 
+O projeto tem o <strong>incentivo e apoio do <span href="http://www.daf.unb.br/">DAF</span></strong>, Decanato de Administração da UnB. A falta de um <strong>meio de comunicação não burocrático e prático</strong> para a notificação desses tais problemas pode ocasionar inúmeros prejuízos para a comunidade acadêmica.
+</p>
+
+<p style="text-align: justify;">&emsp;&emsp; 
+A universidade é um espaço público, que passa de geração a geração de estudantes, professores, servidores e outros. A efetiva aplicação e desenvolvimento de um produto com raiz nesse tema de Hackathon agregado a problemática levantada, pode-se gerar um grande projeto que agregue o cotidiano e beneficie a vida da comunidade universitária, preservando e enriquecendo a Universidade de Brasília do presente e do futuro.
+</p>
 
 
 
