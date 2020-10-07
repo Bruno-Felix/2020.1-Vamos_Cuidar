@@ -64,6 +64,18 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 ## :rocket: Como rodar o projeto
 
+### Pré requisitos
+
+### Instalando
+
+**Clonando os Repositórios**
+
+```
+$ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
+
+$ git clone https://github.com/Bruno-Felix/2020.1-VC_Usuario-FrontEnd.git
+```
+
 
 ## :gear: Tecnologias
 
