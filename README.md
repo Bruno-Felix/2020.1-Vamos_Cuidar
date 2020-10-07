@@ -47,7 +47,7 @@
 	 <a href="#-como-rodar-o-projeto">Rodar o projeto</a> • 
 	 <a href="#-como-contribuir-para-o-projeto">Como Contribuir</a> • 
 	 <a href="#-desenvolvedores">Desenvolvedores</a> • 
-	 <a href="#-licença">Licença</a>
+	 <a href="#-licenc-a">Licença</a>
 </p>
 
 
