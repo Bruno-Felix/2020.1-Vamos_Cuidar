@@ -77,11 +77,11 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 ## :gear: Tecnologias
 
-### :heavy_check_mark: Front End ([Vue.js](https://vuejs.org/)):
+### :point_right: Front End ([Vue.js](https://vuejs.org/)):
   - Axios;
   - Vue/cli.
 
-### :white_check_mark: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
+### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
 - Express;
 - Cors;
 - Bcrypt;
@@ -94,9 +94,9 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 ## :rocket: Como rodar o projeto
 
-### :point_right: Pré requisitos
+### :white_check_mark: Pré requisitos
 
-### :point_right: Instalando e Executando
+### :heavy_check_mark: Instalando e Executando
 
 **Rodando o Backend**
 ```bash
