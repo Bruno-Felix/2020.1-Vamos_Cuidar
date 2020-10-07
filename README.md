@@ -91,13 +91,13 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 #### Instalando e Executando
 
 **Rodando o Backend**
-```
+```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
 ```
 
 **Rodando o FrontEnd**
-```
+```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
 ```
