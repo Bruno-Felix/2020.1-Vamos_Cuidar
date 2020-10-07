@@ -56,7 +56,7 @@
 
 ## 🏆 Sobre o projeto
 <p style="text-align: justify;">&emsp;&emsp; 
-O Vamos Cuidar é uma aplicação PWA que tem como objetivo auxiliar a UnB na maior agilidade em resolver problemas, sejam eles estruturais, acadêmicos, processuais entre outros, que impactam negativamente o dia a dia da universidade. Com uma plataforma prática e direta, a comunidade universitária pode fazer postagens sobre problemas que enfrentam no cotidiano, e com isto, os gestores podem analisar e tomar medidas para resolver esses problemas reportados.
+O Vamos Cuidar é uma <strong>aplicação PWA</strong> que tem como objetivo auxiliar a UnB na <strong>maior agilidade em resolver problemas</strong>, sejam eles estruturais, acadêmicos, processuais entre outros, que impactam negativamente o dia a dia da universidade. <strong>Com uma plataforma prática e direta</strong>, a comunidade universitária pode <strong>fazer postagens sobre problemas</strong> que enfrentam no cotidiano, e com isto, os gestores podem analisar e <strong>tomar as medidas necessárias para <strong>resolver esses problemas reportados</strong>.
 </p>
 
 
@@ -70,7 +70,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 </p>
 
 <p style="text-align: justify;">&emsp;&emsp; 
-A universidade é um espaço público, que passa de geração a geração. <strong>O efetivo desenvolvimento de um produto</strong> com raiz nesse tema de Hackathon agregado a problemática levantada, <strong>agrega significativamente o cotidiano da comunidade universitária</strong>, preservando e enriquecendo a Universidade de Brasília do <strong>presente e a do futuro</strong>.
+A universidade é um espaço público, que passa de geração a geração. O efetivo desenvolvimento do produto, <strong>agrega significativamente</strong> o cotidiano da comunidade universitária, <strong>preservando e enriquecendo</strong> a Universidade de Brasília do <strong>presente e a do futuro</strong>.
 </p>
 
 
