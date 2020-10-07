@@ -54,28 +54,28 @@
 ---
 
 
-## :computer: Sobre o projeto
+## ✅ Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
 
-## Idéia e Motivação
+## :bulb: Idéia e Incentivo
 
 
 ---
 
 
-## Funcionalidades
+## :gear: Funcionalidades
 - Criar postagens anônimas
 - Listar todas as postagens criadas;
 - Visualizar detalhes da postagem.
 
 
-## Aplicação
+## :computer: Aplicação
 
 
 ---
 
 
-## :gear: Tecnologias
+## 🛠 Tecnologias
 
 ### :point_right: Front End ([Vue.js](https://vuejs.org/)):
   - Axios;
@@ -115,13 +115,13 @@ $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
 
 Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
 
-Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
+Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md). :punch:
 
 
 ---
 
 
-## Desenvolvedores
+## :massage: Desenvolvedores
 
 <table>
     <tr>
