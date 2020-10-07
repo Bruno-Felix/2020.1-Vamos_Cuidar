@@ -73,7 +73,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 ```
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
 
-$ git clone https://github.com/Bruno-Felix/2020.1-VC_Usuario-FrontEnd.git
+$ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
 ```
 
 
