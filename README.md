@@ -40,14 +40,14 @@
 
 <p align="center">
 	 <a href="#-sobre-o-projeto">Sobre</a> •
-	 <a href="#-Ideia e Incentivo">Ideia e Incentivo</a> •
+	 <a href="#-ideia e Incentivo">Ideia e Incentivo</a> •
 	 <a href="#-funcionalidades">Funcionalidades</a> • 
 	 <a href="#-aplicação">Aplicação</a> • 
 	 <a href="#-tecnologias">Tecnologias</a> • 
-	 <a href="#-Como-rodar-o-projeto">Rodar o projeto</a> • 
+	 <a href="#-como-rodar-o-projeto">Rodar o projeto</a> • 
 	 <a href="#-como-contribuir-para-o-projeto">Como Contribuir</a> • 
-	 <a href="#-Desenvolvedores">Desenvolvedores</a> • 
-	 <a href="#-Liçensa">Licença</a>
+	 <a href="#-desenvolvedores">Desenvolvedores</a> • 
+	 <a href="#-liçensa">Licença</a>
 </p>
 
 
