@@ -53,13 +53,29 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 
 ## Funcionalidades
-- Criar postagens anônimas:
-  - 
+- Criar postagens anônimas
 - Listar todas as postagens criadas;
 - Visualizar detalhes da postagem.
 
 
 ## Aplicação
+
+
+## :gear: Tecnologias
+
+### Front End ([Vue.js](https://vuejs.org/)):
+  - axios;
+  - vue.
+
+### Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
+- Express;
+- Cors;
+- Bcrypt;
+- Body-parser;
+- Dotenv;
+- mongoose;
+- multer;
+- nodemom.
 
 
 ## :rocket: Como rodar o projeto
@@ -75,25 +91,6 @@ $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
 
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
 ```
-
-
-## :gear: Tecnologias
-
-### Front End ([Vue.js](https://vuejs.org/)):
-  - Docker;
-  - MongoDB;
-  - Vue.js;
-  - Node.js.
-
-### Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
-- Express;
-- Cors;
-- Bcrypt;
-- Body-parser;
-- Dotenv;
-- mongoose;
-- multer;
-- nodemom
 
 
 ## 🤝 Como contribuir para o projeto
