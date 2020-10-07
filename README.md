@@ -21,6 +21,7 @@
     <a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/issues?q=is%3Aissue+is%3Aclosed">
         <img alt="Numero de issues closed" src="https://img.shields.io/github/issues-closed-raw/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario">
     </a>
+    <a><img alt="Numero de issues closed" src="https://img.shields.io/github/languages/count/fga-eps-mds/2020.1-VC_Usuario"></a>
 </div>
 
 <h4 align="center"> 
@@ -88,7 +89,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 ### Pré requisitos
 
-#### Instalando e Executando
+### Instalando e Executando
 
 **Rodando o Backend**
 ```bash
