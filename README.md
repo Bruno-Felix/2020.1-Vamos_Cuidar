@@ -40,7 +40,7 @@
 
 <p align="center">
 	 <a href="#-sobre-o-projeto">Sobre</a> •
-	 <a href="#-idéia-e-motivação">Idéia e Motivação</a> •
+	 <a href="#-Ideia e Incentivo">Ideia e Incentivo</a> •
 	 <a href="#-funcionalidades">Funcionalidades</a> • 
 	 <a href="#-aplicação">Aplicação</a> • 
 	 <a href="#-tecnologias">Tecnologias</a> • 
@@ -58,7 +58,7 @@
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
 
 
-## 💡 Idéia e Incentivo
+## 💡 Ideia e Incentivo
 
 
 
