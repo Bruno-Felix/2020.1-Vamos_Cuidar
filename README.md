@@ -54,8 +54,9 @@
 ---
 
 
-## ✅ Sobre o projeto
+## 🏆 Sobre o projeto
 Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade acadêmica e adminstração para o relato e a resolução de problemas que há na universidade.
+
 
 ## :bulb: Idéia e Incentivo
 
