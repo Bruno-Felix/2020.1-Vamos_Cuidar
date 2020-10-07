@@ -21,7 +21,10 @@
     <a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/issues?q=is%3Aissue+is%3Aclosed">
         <img alt="Numero de issues closed" src="https://img.shields.io/github/issues-closed-raw/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario">
     </a>
-    <a><img alt="Numero de issues closed" src="https://img.shields.io/github/languages/count/fga-eps-mds/2020.1-VC_Usuario"></a>
+    <a><img alt="Numero de linguagens" src="https://img.shields.io/github/languages/count/fga-eps-mds/2020.1-VC_Usuario"></a>
+    <!---<a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/issues?q=is%3Aissue+is%3Aclosed">
+        <img alt="Versão da Release" src="https://img.shields.io/github/v/release/fga-eps-mds/2020.1-VC_Usuario">
+    </a>-->
 </div>
 
 <h4 align="center"> 
