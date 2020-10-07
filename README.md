@@ -84,7 +84,7 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 - nodemom
 
 
-## :octocat: Como contribuir para o projeto
+## 🤝 Como contribuir para o projeto
 
 Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
 
