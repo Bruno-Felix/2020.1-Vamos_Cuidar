@@ -18,13 +18,13 @@
     <a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/milestones">
         <img alt="Numero de Milestones" src="https://img.shields.io/github/milestones/all/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario">
     </a>
-    <a href="https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues">
-        <img alt="Numero de issues closed" src="https://img.shields.io/github/issues-closed/fga-eps-mds/2020.1-VC_Usuario">
-    </a>
     <a><img alt="Numero de linguagens" src="https://img.shields.io/github/languages/count/fga-eps-mds/2020.1-VC_Usuario"></a>
     <!---<a href="https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar-Usuario/issues?q=is%3Aissue+is%3Aclosed">
         <img alt="Versão da Release" src="https://img.shields.io/github/v/release/fga-eps-mds/2020.1-VC_Usuario">
     </a>-->
+    <a href="https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues">
+        <img alt="Numero de issues closed" src="https://img.shields.io/github/issues-closed/fga-eps-mds/2020.1-VC_Usuario">
+    </a>
     <a href="https://github.com/fga-eps-mds/2020.1-VC_Usuario/pulls">
         <img alt="Numero de PRs closed" src="https://img.shields.io/github/issues-pr-closed/fga-eps-mds/2020.1-VC_Usuario">
     </a>
