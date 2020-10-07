@@ -52,6 +52,9 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 ## Idéia e Motivação
 
 
+---
+
+
 ## Funcionalidades
 - Criar postagens anônimas
 - Listar todas as postagens criadas;
@@ -59,6 +62,9 @@ Vamos Cuidar - é uma aplicação que agiliza a comunicação entre a comunidade
 
 
 ## Aplicação
+
+
+---
 
 
 ## :gear: Tecnologias
@@ -98,6 +104,9 @@ $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
 Esse é um projeto Open Source que está disponível para que qualquer um da comunidade possa contribuir e aprimora-lo.
 
 Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/CONTRIBUTING.md).
+
+
+---
 
 
 ## Desenvolvedores
