@@ -39,15 +39,15 @@
 <!--- Sumário -->
 
 <p align="center">
-	 <a href="-#sobre-o-projeto">Sobre</a> •
-	 <a href="-#idéia-e-motivação">Idéia e Motivação</a> •
-	 <a href="-#funcionalidades">Funcionalidades</a> • 
-	 <a href="-#aplicação">Aplicação</a> • 
-	 <a href="-#tecnologias">Tecnologias</a> • 
-	 <a href="-#Como-rodar-o-projeto">Rodar o projeto</a> • 
-	 <a href="-#como-contribuir-para-o-projeto">Como Contribuir</a> • 
-	 <a href="-#Desenvolvedores">Desenvolvedores</a> • 
-	 <a href="-#Liçensa">Licença</a>
+	 <a href="#-sobre-o-projeto">Sobre</a> •
+	 <a href="#-idéia-e-motivação">Idéia e Motivação</a> •
+	 <a href="#-funcionalidades">Funcionalidades</a> • 
+	 <a href="#-aplicação">Aplicação</a> • 
+	 <a href="#-tecnologias">Tecnologias</a> • 
+	 <a href="#-Como-rodar-o-projeto">Rodar o projeto</a> • 
+	 <a href="#-como-contribuir-para-o-projeto">Como Contribuir</a> • 
+	 <a href="#-Desenvolvedores">Desenvolvedores</a> • 
+	 <a href="#-Liçensa">Licença</a>
 </p>
 
 
