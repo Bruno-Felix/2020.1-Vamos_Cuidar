@@ -92,11 +92,11 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 
 ## 🛠 Tecnologias
 
-### :point_right: Front End ([Vue.js](https://vuejs.org/)):
+### :point_right: Front End ([Vue.js](https://vuejs.org/))
   - Axios;
   - Vue/cli.
 
-### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/)):
+### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
 - Express;
 - Cors;
 - Bcrypt;
