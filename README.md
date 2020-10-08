@@ -113,7 +113,7 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 
 ### :heavy_check_mark: Instalando e Executando
 
-:point_right: **Rodando o Backend**
+#### :point_right: Rodando o Backend
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
@@ -125,9 +125,9 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
-#### O BackEnd rodará na porta: [localhost:8000](http://localhost:8000/)
+**O BackEnd rodará na porta:** [localhost:8000](http://localhost:8000/)
 
-:point_right: **Rodando o FrontEnd**
+#### :point_right: Rodando o FrontEnd
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
@@ -139,7 +139,7 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
-#### O FrontEnd rodará na porta: [localhost:8080](http://localhost:8080/)
+**O FrontEnd rodará na porta:** [localhost:8080](http://localhost:8080/)
 
 ## 🤝 Como contribuir para o projeto
 
