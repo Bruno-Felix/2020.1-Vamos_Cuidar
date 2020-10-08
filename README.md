@@ -76,7 +76,7 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 ## 💡 Release 1 08/10
 
 ### :point_right: Slide: [Slide Release 1](https://www.canva.com/design/DAEJ8ADMuMY/2atFykuyQTcYDCRogS3hsw/view?utm_content=DAEJ8ADMuMY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent);
-### :point_right: Vídeo: [Vídeo Release 1](https://www.youtube.com/watch?v=Ubli_7HO6a0&ab_channel=DenysR%C3%B3geres).
+### :point_right: Vídeo: [Vídeo Release 1](https://www.youtube.com/watch?v=jbmP2RJcWDU&ab_channel=DenysR%C3%B3geres).
 
 
 ---
