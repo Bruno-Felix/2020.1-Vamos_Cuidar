@@ -125,6 +125,8 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
+:point_right: o BackEnd rodará na porta: [localhost:8000](http://localhost:8000/)
+
 **Rodando o FrontEnd**
 ```bash
 # Clonando o Repositório
@@ -137,6 +139,7 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
+:point_right: o BackEnd rodará na porta: [localhost:8080](http://localhost:8080/)
 
 ## 🤝 Como contribuir para o projeto
 
