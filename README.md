@@ -168,7 +168,7 @@ $ sudo docker-compose up
 ```
 
 #### :point_right: Rodando toda a aplicação
-**É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo;
+**É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo**;
 **O BackEnd rodará na porta:** [localhost:8000](http://localhost:8000/);
 **O FrontEnd rodará na porta:** [localhost:8080](http://localhost:8080/).
 
