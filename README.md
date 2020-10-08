@@ -69,9 +69,9 @@ O projeto se baseia numa proposta do evento, ocorrido nos dias 21 e 22 de novemb
 O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administração da UnB. A falta de um <strong>meio de comunicação não burocrático e prático</strong> para a notificação desses tais problemas pode ocasionar inúmeros prejuízos para a universidade.
 </p>
 
-<p style="text-align: justify;">&emsp;&emsp; 
+<!---<p style="text-align: justify;">&emsp;&emsp; 
 A universidade é um espaço público, que passa de geração a geração. O efetivo desenvolvimento do produto, <strong>agrega significativamente</strong> o cotidiano da comunidade universitária, <strong>preservando e enriquecendo</strong> a Universidade de Brasília do <strong>presente e a do futuro</strong>.
-</p>
+</p>-->
 
 
 
@@ -119,10 +119,22 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
 ```
 
+```bash
+# Rodando o docker-compose
+$ sudo docker-compose build
+$ sudo docker-compose up
+```
+
 **Rodando o FrontEnd**
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
+```
+
+```bash
+# Rodando o docker-compose
+$ sudo docker-compose build
+$ sudo docker-compose up
 ```
 
 
