@@ -73,7 +73,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 A universidade é um espaço público, que passa de geração a geração. O efetivo desenvolvimento do produto, <strong>agrega significativamente</strong> o cotidiano da comunidade universitária, <strong>preservando e enriquecendo</strong> a Universidade de Brasília do <strong>presente e a do futuro</strong>.
 </p>-->
 
-## 💡 Release 1 08/10
+## 📦 Release 1 08/10
 
 ### :point_right: Slide: [Slide Release 1](https://www.canva.com/design/DAEJ8ADMuMY/2atFykuyQTcYDCRogS3hsw/view?utm_content=DAEJ8ADMuMY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent);
 ### :point_right: Vídeo: [Vídeo Release 1](https://www.youtube.com/watch?v=jbmP2RJcWDU&ab_channel=DenysR%C3%B3geres).
