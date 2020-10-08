@@ -40,7 +40,7 @@
 <p align="center">
 	 <a href="#-sobre-o-projeto">Sobre</a> •
 	 <a href="#-ideia-e-incentivo">Ideia e Incentivo</a> •
-	 <a href="#-release-1-08/10">Release 1</a> •
+	 <a href="#-release-1-0810">Release 1</a> •
 	 <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> • 
 	 <a href="#-aplicação">Aplicação</a> • 
 	 <a href="#-tecnologias">Tecnologias</a> • 
@@ -83,9 +83,12 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 
 
 ## ⚙️ Funcionalidades
-- Criar postagens anônimas
-- Listar todas as postagens criadas;
-- Visualizar detalhes da postagem.
+
+### :point_right: Criar postagens anônimas:
+
+### :point_right: Listar todas as postagens;
+
+### :point_right: Visualizar detalhes da postagem.
 
 
 ## 💻 Aplicação
