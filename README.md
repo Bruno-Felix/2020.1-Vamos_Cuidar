@@ -125,7 +125,7 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
-:point_right: o BackEnd rodará na porta: [localhost:8000](http://localhost:8000/)
+#### :point_right: O BackEnd rodará na porta: [localhost:8000](http://localhost:8000/)
 
 **Rodando o FrontEnd**
 ```bash
@@ -139,7 +139,7 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
-:point_right: o BackEnd rodará na porta: [localhost:8080](http://localhost:8080/)
+#### :point_right: O FrontEnd rodará na porta: [localhost:8080](http://localhost:8080/)
 
 ## 🤝 Como contribuir para o projeto
 
