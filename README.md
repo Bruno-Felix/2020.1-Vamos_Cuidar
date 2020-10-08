@@ -93,7 +93,21 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 
 ## 💻 Aplicação
 
+<p align="center">
+  <kbd>
+    <img src="https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/111-Revisao_README/docs/Imagens/Print_README/localhost_8080_iPhone_X.png" width="250">
+  </kbd>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <kbd>
+    <img src="https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/111-Revisao_README/docs/Imagens/Print_README/localhost_8080_iPhone_X_1.png" width="250">
+  </kbd>
+</p>
 
+<p align="center">
+  <kbd>
+    <img src="https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/111-Revisao_README/docs/Imagens/Print_README/Captura_de_tela_de_2020-10-07_23-09-32.png" width="800">
+  </kbd>
+</p>
 ---
 
 
@@ -117,6 +131,12 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 ## 🚀 Como rodar o projeto
 
 ### :white_check_mark: Pré requisitos
+
+- docker;
+- docker-compose;
+- node/ npm.
+
+**Saiba como instalar os pré requisitos** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
 
 ### :heavy_check_mark: Instalando e Executando
 
