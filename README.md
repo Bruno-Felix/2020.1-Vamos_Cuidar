@@ -108,6 +108,7 @@ A universidade é um espaço público, que passa de geração a geração. O efe
     <img src="https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/111-Revisao_README/docs/Imagens/Print_README/Captura_de_tela_de_2020-10-07_23-09-32.png" width="800">
   </kbd>
 </p>
+
 ---
 
 
@@ -132,9 +133,9 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 
 ### :white_check_mark: Pré requisitos
 
-- docker;
-- docker-compose;
-- node/ npm.
+- Docker;
+- Docker-compose;
+- Node/ npm.
 
 **Saiba como instalar os pré requisitos** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
 
@@ -144,6 +145,7 @@ A universidade é um espaço público, que passa de geração a geração. O efe
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
+$ cd 2020.1-VC_Usuario
 ```
 
 ```bash
@@ -151,13 +153,12 @@ $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
 $ sudo docker-compose build
 $ sudo docker-compose up
 ```
-
-**O BackEnd rodará na porta:** [localhost:8000](http://localhost:8000/)
 
 #### :point_right: Rodando o FrontEnd
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
+$ cd 2020.1-VC_Usuario-FrontEnd
 ```
 
 ```bash
@@ -166,7 +167,10 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 
-**O FrontEnd rodará na porta:** [localhost:8080](http://localhost:8080/)
+#### :point_right: Rodando toda a aplicação
+**É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo;
+**O BackEnd rodará na porta:** [localhost:8000](http://localhost:8000/);
+**O FrontEnd rodará na porta:** [localhost:8080](http://localhost:8080/).
 
 ## 🤝 Como contribuir para o projeto
 
