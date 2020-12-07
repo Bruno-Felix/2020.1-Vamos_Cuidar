@@ -152,17 +152,24 @@ $ sudo docker-compose up
 
 ### :point_right: Front End ([Vue.js](https://vuejs.org/))
   - Axios;
+  - Register-service-worker;
   - Vue/cli.
 
 ### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
-- Express;
-- Cors;
 - Bcrypt;
 - Body-parser;
+- Cors;
 - Dotenv;
+- Express;
+- Jsonwebtoken;
+- Jwt-redis;
 - Mongoose;
 - Multer;
-- Nodemon.
+- Nodemon;
+- Shelf/jest-mongodb;
+- Env-cmd;
+- Jest;
+- Supertest;
 
 ## 🤝 Como contribuir para o projeto
 
