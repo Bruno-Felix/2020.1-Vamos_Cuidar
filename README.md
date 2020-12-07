@@ -88,17 +88,17 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/38890440/101405320-aba73f00-38b6-11eb-90cf-f62329b436b8.png" width="250">
+    <img src="https://user-images.githubusercontent.com/38890440/101405322-acd86c00-38b6-11eb-8a6a-f5148dc1d062.png" width="250">
   </kbd>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <kbd>
-	<img src="https://user-images.githubusercontent.com/38890440/101405322-acd86c00-38b6-11eb-8a6a-f5148dc1d062.png.png" width="800">
+    <img src="https://user-images.githubusercontent.com/38890440/101405320-aba73f00-38b6-11eb-90cf-f62329b436b8.png" width="250">
   </kbd>
 </p>
 
 <p align="center">
   <kbd>
-	<img src="https://user-images.githubusercontent.com/38890440/95411287-8751d500-08fc-11eb-9078-394683d67a03.png" width="250">
+    <img src="https://user-images.githubusercontent.com/38890440/95411285-86b93e80-08fc-11eb-8525-0c585bdd0883.png" width="800">
   </kbd>
 </p>
 
