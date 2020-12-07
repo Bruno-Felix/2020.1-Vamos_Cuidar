@@ -69,7 +69,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 
 ## 📦 Releases 1 e 2 
 
-**Veja os slides e vídeos das Releases 1(08/10) e 2(10/12)** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Releases)
+**Veja os slides e vídeos das Releases 1 e 2** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Releases)
 
 
 ---
