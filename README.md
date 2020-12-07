@@ -120,7 +120,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 
 ### :heavy_check_mark: Instalando e Executando
 
-#### :point_right: Rodando o Backend
+#### :white_check_mark: Rodando o Backend
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario.git
@@ -132,8 +132,9 @@ $ cd 2020.1-VC_Usuario
 $ sudo docker-compose build
 $ sudo docker-compose up
 ```
+**O BackEnd localmente rodará na porta:** [localhost:8000](http://localhost:8000/)*
 
-#### :point_right: Rodando o FrontEnd
+#### :white_check_mark: Rodando o FrontEnd
 ```bash
 # Clonando o Repositório
 $ git clone https://github.com/fga-eps-mds/2020.1-VC_Usuario-FrontEnd
@@ -145,13 +146,10 @@ $ cd 2020.1-VC_Usuario-FrontEnd
 $ sudo docker-compose build
 $ sudo docker-compose up
 ```
-
-#### :point_right: Rodando toda a aplicação
-**O BackEnd localmente rodará na porta:** [localhost:8000](http://localhost:8000/);<br>
-**O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/).<br><br>
+**O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/)*
 *É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo.
 
-### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
+#### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
 
 
 ## 🤝 Como contribuir para o projeto
