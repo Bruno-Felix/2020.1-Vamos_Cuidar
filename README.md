@@ -51,7 +51,7 @@
 ---
 
 
-## 🏆 Sobre o projeto
+## 🏆 Sobre o produto
 <p style="text-align: justify;">&emsp;&emsp; 
 O Vamos Cuidar é uma <strong>aplicação PWA</strong> que tem como objetivo auxiliar a UnB na <strong>maior agilidade em resolver problemas</strong>, sejam eles estruturais, acadêmicos, processuais entre outros, que impactam negativamente o dia a dia da universidade. <strong>Com uma plataforma prática e direta</strong>, a comunidade universitária pode <strong>fazer postagens sobre problemas</strong> que enfrentam no cotidiano, e com isto, os gestores podem analisar e tomar as medidas necessárias para <strong>resolver esses problemas reportados</strong>.
 </p>
@@ -105,23 +105,6 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 ---
 
 
-## 🛠 Tecnologias
-
-### :point_right: Front End ([Vue.js](https://vuejs.org/))
-  - Axios;
-  - Vue/cli.
-
-### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
-- Express;
-- Cors;
-- Bcrypt;
-- Body-parser;
-- Dotenv;
-- Mongoose;
-- Multer;
-- Nodemon.
-
-
 ## 🚀 Como rodar o projeto
 
 ### :white_check_mark: Pré requisitos
@@ -162,8 +145,26 @@ $ sudo docker-compose up
 
 #### :point_right: Rodando toda a aplicação
 **É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo**;<br>
-**O BackEnd rodará na porta:** [localhost:8000](http://localhost:8000/);<br>
-**O FrontEnd rodará na porta:** [localhost:8080](http://localhost:8080/).<br>
+**O BackEnd localmente rodará na porta:** [localhost:8000](http://localhost:8000/);<br>
+**O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/).<br><br>
+**Deploy da Aplicação:** [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
+
+
+## 🛠 Tecnologias
+
+### :point_right: Front End ([Vue.js](https://vuejs.org/))
+  - Axios;
+  - Vue/cli.
+
+### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
+- Express;
+- Cors;
+- Bcrypt;
+- Body-parser;
+- Dotenv;
+- Mongoose;
+- Multer;
+- Nodemon.
 
 ## 🤝 Como contribuir para o projeto
 
