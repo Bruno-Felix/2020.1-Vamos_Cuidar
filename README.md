@@ -116,7 +116,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 #### :point_right: Front End ([Vue.js](https://vuejs.org/))
 #### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
 
-**Saiba todas as tecnologias e os pré-requisitos do projeto ** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
+**Saiba todas as tecnologias e os pré-requisitos do projeto** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
 
 ### :heavy_check_mark: Instalando e Executando
 
