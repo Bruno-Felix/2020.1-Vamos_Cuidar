@@ -104,13 +104,19 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 
 ## 🚀 Como rodar o projeto
 
-### :white_check_mark: Pré requisitos
 
+
+### 🛠 Tecnologias e Pré-Requisitos
+
+#### :white_check_mark: Pré-Requisitos
 - Docker;
 - Docker-compose;
 - Node/ npm.
 
-**Saiba como instalar os pré requisitos** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
+#### :point_right: Front End ([Vue.js](https://vuejs.org/))
+#### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
+
+**Saiba todas as tecnologias e os pré-requisitos do projeto ** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Instalar-Pr%C3%A9-Requisitos)
 
 ### :heavy_check_mark: Instalando e Executando
 
@@ -147,29 +153,6 @@ $ sudo docker-compose up
 
 ### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
 
-
-## 🛠 Tecnologias
-
-### :point_right: Front End ([Vue.js](https://vuejs.org/))
-  - Axios;
-  - Register-service-worker;
-  - Vue/cli.
-
-### :point_right: Back End ([Node.js](https://nodejs.org/en/) + [MongoDB](https://www.mongodb.com/))
-- Bcrypt;
-- Body-parser;
-- Cors;
-- Dotenv;
-- Express;
-- Jsonwebtoken;
-- Jwt-redis;
-- Mongoose;
-- Multer;
-- Nodemon;
-- Shelf/jest-mongodb;
-- Env-cmd;
-- Jest;
-- Supertest;
 
 ## 🤝 Como contribuir para o projeto
 
