@@ -87,7 +87,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 ## 💻 Aplicação
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/38890440/101405962-9d0d5780-38b7-11eb-8bac-15a6b64ca157.png" width="250">
+    <img src="https://user-images.githubusercontent.com/38890440/101405322-acd86c00-38b6-11eb-8a6a-f5148dc1d062.png" width="250">
   &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://user-images.githubusercontent.com/38890440/101405320-aba73f00-38b6-11eb-90cf-f62329b436b8.png" width="250">
 </p>
