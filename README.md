@@ -144,10 +144,11 @@ $ sudo docker-compose up
 ```
 
 #### :point_right: Rodando toda a aplicação
-**É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo**;<br>
 **O BackEnd localmente rodará na porta:** [localhost:8000](http://localhost:8000/);<br>
 **O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/).<br><br>
-**Deploy da Aplicação:** [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
+*É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo.
+
+### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
 
 
 ## 🛠 Tecnologias
