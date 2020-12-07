@@ -146,7 +146,7 @@ $ cd 2020.1-VC_Usuario-FrontEnd
 $ sudo docker-compose build
 $ sudo docker-compose up
 ```
-**O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/)*<br>
+**O FrontEnd localmente rodará na porta:** [localhost:8080](http://localhost:8080/)*<br><br>
 <i>*É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo.</i>
 
 #### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
