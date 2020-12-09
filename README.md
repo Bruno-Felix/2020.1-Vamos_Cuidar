@@ -29,7 +29,7 @@
 </div>
 
 <h4 align="center"> 
-	🚧  Vamos Cuidar: Concluído!!  🚧
+	✅ Vamos Cuidar: Concluído!! ✅
 </h4>
 
 
@@ -150,6 +150,9 @@ $ sudo docker-compose up
 <i>*É necessário rodar simultaneamente o backend e o frontend para o funcionamento completo.</i>
 
 ### :heavy_check_mark: Deploy da Aplicação [Vamos Cuidar](https://vc-usuario-frontend.herokuapp.com/).<br>
+
+
+---
 
 
 ## 🤝 Como contribuir para o projeto
