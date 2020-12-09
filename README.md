@@ -162,9 +162,6 @@ Esse é um projeto Open Source que está disponível para que qualquer um da com
 Para contribuir, por favor acesse nosso processo de contribuição: [Como Contribuir](https://fga-eps-mds.github.io/2020.1-VC_Usuario/#/CONTRIBUTING). :punch:
 
 
----
-
-
 ## 💆‍ Desenvolvedores
 
 <table>
