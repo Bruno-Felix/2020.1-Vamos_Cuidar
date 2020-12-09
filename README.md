@@ -92,9 +92,7 @@ O projeto tem o <strong>incentivo e apoio do DAF</strong>, Decanato de Administr
 </p>
 
 <p align="center">
-  <kbd>
     <img src="https://user-images.githubusercontent.com/38890440/101640771-ad384a80-3a0f-11eb-9cc7-8f688b81b817.png" width="800">
-  </kbd>
 </p>
 
 **Veja mais imagens da aplicação** [aqui](https://github.com/fga-eps-mds/2020.1-VC_Usuario/wiki/Imagens-da-Aplica%C3%A7%C3%A3o)
